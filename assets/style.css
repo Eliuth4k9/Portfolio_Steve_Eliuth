@@ -31,3 +31,9 @@ body {
     padding: 10px;
     width: 400px;
 }
+
+.contactP {
+  display: block;
+  text-align: center;
+  line-height: 10px;
+}
